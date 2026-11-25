@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Melitón Fuentes 👋
 
-<!--
-**meliton-dev/meliton-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack de Tecamachalco, Puebla. Estoy buscando prácticas profesionales para seguir aprendiendo y aportar en proyectos reales.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript · TypeScript · Node.js · Express · NestJS · Prisma · PostgreSQL · React · React Native · Expo · Firebase
+
+## Proyectos
+
+- **[Forragest](https://github.com/meliton-dev/forragest):** sistema de gestión para una forrajera, con API, punto de venta web y app PWA para repartidores.
+- **[Luminous Spa](https://github.com/meliton-dev/Luminous-Spa):** app móvil para reservar citas en un spa.
+
+## Contacto
+
+📧 mel.fuentesma@gmail.com
